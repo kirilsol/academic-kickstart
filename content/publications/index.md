@@ -16,7 +16,7 @@ header:
 
 ## Manuscripts and under review
 * **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,
-  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", 2020. [[pdf](files/Solovey.Bandyopadhyay.ETAL.2020.pdf)]
+  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", 2020. [[pdf](/files/Solovey.Bandyopadhyay.ETAL.2020.pdf)]
 * Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
   Pavone, "Efficient Large-Scale Multi-Drone Delivery Using Transit
   Networks", submitted to *Journal of Artificial Intelligence Research*, 2020. [videos: [short](https://youtu.be/2U8jI-n9Ulk), [long](https://www.youtube.com/watch?v=w7b6a-Rzu3o)], [[arxiv]](https://arxiv.org/abs/1909.11840)      
