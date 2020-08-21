@@ -26,10 +26,6 @@ header:
   Monotone Tabletop Setups", submitted to a special issue
   **(invited)** of *Transactions on Automation Science and
   Engineering*, 2020. [[arxiv]](https://arxiv.org/abs/1810.12202)
-* **Kiril Solovey**, "Complexity of Planning" in Section "Motion
-  Planning", in the *Encyclopedia of Robotics*, Eds. Marcelo H. Ang
-  Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
-  E. Kavraki. Springer Press. Submitted, 2020. [[arxiv]](https://arxiv.org/abs/2003.03632)
 
 ## Journals 
 1. Robin Brown, Federico Rossi, **Kiril Solovey**,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, "On Local Computation for Optimization in Multi-Agent Systems", *Transactions on Control of Network Systems*, to appear, 2020. [[arxiv]](https://arxiv.org/abs/2002.12313)
@@ -140,6 +136,10 @@ Motion Planning", *Autonomous Robots* , special issue
    2012.
    
 ## Book chapters
+* **Kiril Solovey**, "Complexity of Planning" in Section "Motion
+  Planning", in the *Encyclopedia of Robotics*, Eds. Marcelo H. Ang
+  Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
+  E. Kavraki. Springer Press. To appear, 2020. [[arxiv]](https://arxiv.org/abs/2003.03632)
 * Dan Halperin, Lydia Kavraki and **Kiril Solovey**, "Chapter
    51: Robotics" in *Handbook of Discrete and Computational
    Geometry*, 3rd Edition, CRC Press, 2016
