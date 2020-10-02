@@ -14,6 +14,8 @@ header:
   image: ""
 ---
 
+
+
 ## Manuscripts and under review
 * **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,
   Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", 2020. [[pdf](/files/Solovey.Bandyopadhyay.ETAL.2020.pdf)]
