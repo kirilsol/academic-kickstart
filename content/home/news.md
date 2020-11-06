@@ -16,6 +16,15 @@ header:
 
 <a name="news"></a>
 
+**Upcoming talks:** 
+* Nov 11: Center for Automotive Research at Stanford.
+* Nov 12: Electrical and Computer Engineering Department, University of British Columbia.
+* Nov 19: University of Toronto Robotics Institute, ON.
+* Nov 24: Center on Mathematical Sciences and Applications, Harvard University, MA.
+* Dec 7: Institute for Dynamic Systems and Control, ETH Zurich, Switzerland.
+
+**November, 2020:** Two papers submitted to ICRA 2021. 
+
 **September, 2020:** Talks at Ariel, UC Berkeley, Stanford, and Waterloo.
 
 **July, 2020:** 

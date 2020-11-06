@@ -16,20 +16,18 @@ header:
 
 
 
-## Manuscripts and under review
-* **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,
-  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", 2020. [[pdf](/files/Solovey.Bandyopadhyay.ETAL.2020.pdf)]
-* Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
+<!-- ## Manuscripts and under review -->
+
+## Journals 
+1. Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
   Pavone, "Efficient Large-Scale Multi-Drone Delivery Using Transit
   Networks", submitted to *Journal of Artificial Intelligence Research*, 2020. [videos: [short](https://youtu.be/2U8jI-n9Ulk), [long](https://www.youtube.com/watch?v=w7b6a-Rzu3o)], [[arxiv]](https://arxiv.org/abs/1909.11840)      
   **Press:** [New Scientist](https://www.newscientist.com/article/2221652-delivery-drones-could-land-on-public-transport-to-extend-their-range/), [Venture Beat](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/), [BBC Digital Planet](https://www.bbc.co.uk/sounds/play/w3csz980), [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-could-hitchhike-on-public-transit-to-massively-expand-their-range), [New Atlas](https://newatlas.com/drones/delivery-drones-quadruple-range-bus/), and [Interesting Engineering](https://interestingengineering.com/your-delivery-drones-could-soon-be-taking-the-bus-to-save-both-time-and-fuel). 
-* Rahul Shome, **Kiril Solovey**, Jingjin Yu, Dan Halperin, and Kostas
+1. Rahul Shome, **Kiril Solovey**, Jingjin Yu, Dan Halperin, and Kostas
   Bekris, "Fast, High-Quality Dual-Arm Rearrangement in Synchronous,
   Monotone Tabletop Setups", submitted to a special issue
   **(invited)** of *Transactions on Automation Science and
   Engineering*, 2020. [[arxiv]](https://arxiv.org/abs/1810.12202)
-
-## Journals 
 1. Robin Brown, Federico Rossi, **Kiril Solovey**,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, "On Local Computation for Optimization in Multi-Agent Systems", *Transactions on Control of Network Systems*, to appear, 2020. [[arxiv]](https://arxiv.org/abs/2002.12313)
 1. **Kiril Solovey** and Michal Kleinbort, "The Critical Radius
    in Sampling-Based Motion Planning", special issue of *International Journal of Robotics Research* (**invited**), 2020. 
@@ -69,6 +67,9 @@ Motion Planning", *Autonomous Robots* , special issue
    issue (**invited**), 2014.
    
 ## Peer-reviewed conference proceedings
+1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", submitted to *International Conference on Robotics and
+  Automation*, 2021. [[pdf]](/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf)
+1. Dror Dayan, **Kiril Solovey**, Marco Pavone, and Dan Halperin, "Near-Optimal Multi-Robot Motion Planning with Finite Sampling",  submitted to *International Conference on Robotics and Automation*, 2021. [[pdf]](/files/Dayan.Solovey.ea.ICRA21.pdf)
 1. Matthew Tsao, **Kiril Solovey**, and Marco Pavone, "Sample
   Complexity of Probabilistic Roadmaps via Epsilon-nets", in  *International Conference on Robotics and Automation*, 2020. [[video](https://www.youtube.com/watch?v=dk3zduYNMYk&)], [[arxiv]](https://arxiv.org/abs/1909.06363) 
 1. Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
@@ -81,7 +82,7 @@ Motion Planning", *Autonomous Robots* , special issue
   Automation*, 2020. [[arxiv]](https://arxiv.org/abs/1909.05569) 
 1. **Kiril Solovey**, Lucas Janson, Edward Schmerling, Emilio Frazzoli,
   and Marco Pavone, "Revisiting the Asymptotic Optimality of RRT\*",
-  in *International Conference on Robotics and Automation*, 2020. [[video](https://www.youtube.com/watch?v=SG9irSYCr7E)], [[arxiv]](https://arxiv.org/abs/1909.09688)
+  in *International Conference on Robotics and Automation*, 2020. [[video]](https://www.youtube.com/watch?v=SG9irSYCr7E), [[arxiv]](https://arxiv.org/abs/1909.09688)
 1. Robin Brown, Federico Rossi, **Kiril Solovey**, Michael T. Wolf, and
   Marco Pavone, "Exploiting Locality and Structure for Distributed
   Optimization in Multi-Agent Systems", in *European Control
@@ -141,7 +142,7 @@ Motion Planning", *Autonomous Robots* , special issue
 * **Kiril Solovey**, "Complexity of Planning" in Section "Motion
   Planning", in the *Encyclopedia of Robotics*, Eds. Marcelo H. Ang
   Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
-  E. Kavraki. Springer Press. To appear, 2020. [[arxiv]](https://arxiv.org/abs/2003.03632)
+  E. Kavraki. Springer Press, to appear, 2020. [[arxiv]](https://arxiv.org/abs/2003.03632)
 * Dan Halperin, Lydia Kavraki and **Kiril Solovey**, "Chapter
    51: Robotics" in *Handbook of Discrete and Computational
    Geometry*, 3rd Edition, CRC Press, 2016
@@ -167,6 +168,7 @@ Motion Planning", *Autonomous Robots* , special issue
 [Riccardo Bonalli](https://rbonalli.github.io/),
 [Robin Brown](http://asl.stanford.edu/people/robin-brown/),
 [Shushman Choudhury](https://web.stanford.edu/~shushman/),
+Dror Dayan, 
 [Andrew Dobston](http://www.doctorandrewdobson.com/),
 [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli.html),
 [Edgar Granados](https://robotics.cs.rutgers.edu/pracsys/members/edgar-granados/),
