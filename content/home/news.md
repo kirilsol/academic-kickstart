@@ -18,8 +18,9 @@ header:
 
 **Upcoming talks:** 
 * Nov 11: Center for Automotive Research at Stanford.
-* Nov 12: Electrical and Computer Engineering Department, University of British Columbia.
+* Nov 12: Electrical and Computer Engineering Department, University of British Columbia, BC, Canada. 
 * Nov 19: University of Toronto Robotics Institute, ON.
+* Nov 20, 26: School of Computing Science, Simon Fraser University, BC, Canada.
 * Nov 24: Center on Mathematical Sciences and Applications, Harvard University, MA.
 * Dec 7: Institute for Dynamic Systems and Control, ETH Zurich, Switzerland.
 
