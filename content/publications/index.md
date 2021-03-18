@@ -21,11 +21,11 @@ header:
 ## Journals 
 1. Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
   Pavone, "Efficient Large-Scale Multi-Drone Delivery Using Transit
-  Networks", submitted to *Journal of Artificial Intelligence Research*, 2020. [videos: [short](https://youtu.be/2U8jI-n9Ulk), [long](https://www.youtube.com/watch?v=w7b6a-Rzu3o)], [[arxiv]](https://arxiv.org/abs/1909.11840)      
+  Networks", *Journal of Artificial Intelligence Research*, 2020. [videos: [short](https://youtu.be/2U8jI-n9Ulk), [long](https://www.youtube.com/watch?v=w7b6a-Rzu3o)], [[arxiv]](https://arxiv.org/abs/1909.11840)      
   **Press:** [New Scientist](https://www.newscientist.com/article/2221652-delivery-drones-could-land-on-public-transport-to-extend-their-range/), [Venture Beat](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/), [BBC Digital Planet](https://www.bbc.co.uk/sounds/play/w3csz980), [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-could-hitchhike-on-public-transit-to-massively-expand-their-range), [New Atlas](https://newatlas.com/drones/delivery-drones-quadruple-range-bus/), and [Interesting Engineering](https://interestingengineering.com/your-delivery-drones-could-soon-be-taking-the-bus-to-save-both-time-and-fuel). 
 1. Rahul Shome, **Kiril Solovey**, Jingjin Yu, Dan Halperin, and Kostas
   Bekris, "Fast, High-Quality Dual-Arm Rearrangement in Synchronous,
-  Monotone Tabletop Setups", submitted to a special issue
+  Monotone Tabletop Setups", special issue
   **(invited)** of *Transactions on Automation Science and
   Engineering*, 2020. [[arxiv]](https://arxiv.org/abs/1810.12202)
 1. Robin Brown, Federico Rossi, **Kiril Solovey**,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, "On Local Computation for Optimization in Multi-Agent Systems", *Transactions on Control of Network Systems*, to appear, 2020. [[arxiv]](https://arxiv.org/abs/2002.12313)
@@ -67,9 +67,9 @@ Motion Planning", *Autonomous Robots* , special issue
    issue (**invited**), 2014.
    
 ## Peer-reviewed conference proceedings
-1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", submitted to *International Conference on Robotics and
+1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", *International Conference on Robotics and
   Automation*, 2021. [[pdf]](/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf)
-1. Dror Dayan, **Kiril Solovey**, Marco Pavone, and Dan Halperin, "Near-Optimal Multi-Robot Motion Planning with Finite Sampling",  submitted to *International Conference on Robotics and Automation*, 2021. [[pdf]](/files/Dayan.Solovey.ea.ICRA21.pdf)
+1. Dror Dayan, **Kiril Solovey**, Marco Pavone, and Dan Halperin, "Near-Optimal Multi-Robot Motion Planning with Finite Sampling",  *International Conference on Robotics and Automation*, 2021. [[pdf]](/files/Dayan.Solovey.ea.ICRA21.pdf)
 1. Matthew Tsao, **Kiril Solovey**, and Marco Pavone, "Sample
   Complexity of Probabilistic Roadmaps via Epsilon-nets", in  *International Conference on Robotics and Automation*, 2020. [[video](https://www.youtube.com/watch?v=dk3zduYNMYk&)], [[arxiv]](https://arxiv.org/abs/1909.06363) 
 1. Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
