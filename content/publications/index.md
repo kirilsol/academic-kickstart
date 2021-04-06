@@ -66,12 +66,12 @@ Motion Planning", *Autonomous Robots* , special issue
    Planning", *International Journal on Robotics Research*, special
    issue (**invited**), 2014.
    
-## Peer-reviewed conference proceedings
-1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", *International Conference on Robotics and
-  Automation*, 2021. [[pdf]](/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf)
+## Conference proceedings
+1. Devansh Jalota, **Kiril Solovey**, Stephen Zoepf, Marco Pavone, "Balancing Fairness and Efficiency in Traffic Routing via Interpolated Traffic Assignment", submitted to *Conference on Decision and Control*, 2021. [[arxiv]](https://arxiv.org/abs/2104.00098), [[code1]](https://github.com/StanfordASL/frank-wolfe-traffic), [[code2]](https://github.com/StanfordASL/fair-routing)
+1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", *International Conference on Robotics and Automation*, 2021. [[arxiv]](https://arxiv.org/abs/2011.03603)
 1. Dror Dayan, **Kiril Solovey**, Marco Pavone, and Dan Halperin, "Near-Optimal Multi-Robot Motion Planning with Finite Sampling",  *International Conference on Robotics and Automation*, 2021. [[pdf]](/files/Dayan.Solovey.ea.ICRA21.pdf)
 1. Matthew Tsao, **Kiril Solovey**, and Marco Pavone, "Sample
-  Complexity of Probabilistic Roadmaps via Epsilon-nets", in  *International Conference on Robotics and Automation*, 2020. [[video](https://www.youtube.com/watch?v=dk3zduYNMYk&)], [[arxiv]](https://arxiv.org/abs/1909.06363) 
+  Complexity of Probabilistic Roadmaps via Epsilon-nets", in  *International Conference on Robotics and Automation*, 2020. [[video]](https://www.youtube.com/watch?v=dk3zduYNMYk&), [[arxiv]](https://arxiv.org/abs/1909.06363) 
 1. Shushman Choudhury, **Kiril Solovey**, Mykel Kochenderfer, and Marco
   Pavone, "Efficient Large-Scale Multi-Drone Delivery Using Transit
   Networks", in *International Conference on Robotics and
@@ -91,7 +91,7 @@ Motion Planning", *Autonomous Robots* , special issue
 1. **Kiril Solovey**, Mauro Salazar, and Marco Pavone, "Scalable and
   Congestion-aware Routing for Autonomous Mobility-on-Demand via
   Frank-Wolfe Optimization", in *Robotics: Science and
-  Systems*, 2019. [[arxiv]](https://arxiv.org/abs/1903.03697), [[slides]](files/slides-2019-fw-amod.pdf)
+  Systems*, 2019. [[arxiv]](https://arxiv.org/abs/1903.03697), [[code]](https://github.com/StanfordASL/frank-wolfe-traffic)
 1. Michal Kleinbort, **Kiril Solovey**, Zakary Littlefield, Kostas
    Bekris, and Dan Halperin, "Probabilistic completeness of RRT for
    geometric and kinodynamic planning with forward propagation." In
@@ -174,6 +174,7 @@ Dror Dayan,
 [Edgar Granados](https://robotics.cs.rutgers.edu/pracsys/members/edgar-granados/),
 [Dan Halperin](http://acg.cs.tau.ac.il/danhalperin),
 [Lucas Janson](http://lucasjanson.fas.harvard.edu/),
+[Devansh Jalota](http://asl.stanford.edu/people/devansh-jalota/),
 [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/),
 [Michal Kleinbort](http://acg.cs.tau.ac.il/people/michal-kleinbort),
 [Mykel Kochenderfer](https://mykel.kochenderfer.com/),
@@ -187,5 +188,6 @@ Dror Dayan,
 [Matthew Tsao](http://asl.stanford.edu/people/matt-tsao/),
 [Michael T. Wolf](https://www-robotics.jpl.nasa.gov/people/Michael_Wolf/),
 [Jingjin Yu](http://jingjinyu.com/),
-[Or Zamir](http://www.cs.tau.ac.il/~orzamir/).
+[Or Zamir](http://www.cs.tau.ac.il/~orzamir/),
+[Stephen Zoepf](https://cars.stanford.edu/people/stephen-zoepf).
 

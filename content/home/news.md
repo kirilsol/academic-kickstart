@@ -16,6 +16,8 @@ header:
 
 <a name="news"></a>
 
+**April, 2021:** New manuscript on fair traffic routing [[arxiv]](https://arxiv.org/abs/2104.00098).
+
 **February, 2021:** Two papers accepted to ICRA2020.
 
 **December, 2020:** Talk at the Institute for Dynamic Systems and Control, ETH Zurich, Switzerland.
