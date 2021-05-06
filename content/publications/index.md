@@ -27,7 +27,7 @@ header:
   Bekris, "Fast, High-Quality Dual-Arm Rearrangement in Synchronous,
   Monotone Tabletop Setups", special issue
   **(invited)** of *Transactions on Automation Science and
-  Engineering*, 2020. [[arxiv]](https://arxiv.org/abs/1810.12202)
+  Engineering*, 2020. **Invited** for presentation to CASE2021.  [[arxiv]](https://arxiv.org/abs/1810.12202)
 1. Robin Brown, Federico Rossi, **Kiril Solovey**,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, "On Local Computation for Optimization in Multi-Agent Systems", *Transactions on Control of Network Systems*, to appear, 2020. [[arxiv]](https://arxiv.org/abs/2002.12313)
 1. **Kiril Solovey** and Michal Kleinbort, "The Critical Radius
    in Sampling-Based Motion Planning", special issue of *International Journal of Robotics Research* (**invited**), 2020. 
