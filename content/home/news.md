@@ -16,25 +16,14 @@ header:
 
 <a name="news"></a>
 
-**April, 2021:** New manuscript on fair traffic routing [[arxiv]](https://arxiv.org/abs/2104.00098).
+**July, 2021:** Talk at the Center for Automotive Research at Stanford 
 
-**February, 2021:** Two papers accepted to ICRA2020.
+**June, 2021:** New manuscript, "When Efficiency meets Equity in Congestion Pricing and Revenue Refunding Schemes"  [[arxiv]]( https://arxiv.org/abs/2106.10407)
 
-**December, 2020:** Talk at the Institute for Dynamic Systems and Control, ETH Zurich, Switzerland.
+**April, 2021:** New manuscript, "Balancing Fairness and Efficiency in Traffic Routing via Interpolated Traffic Assignment" [[arxiv]](https://arxiv.org/abs/2104.00098)
 
-**November, 2020:** Two papers submitted to ICRA 2021. Talks at Stanford, UBC, UofT, SFU, and Harvard.
+**February, 2021:** Two papers accepted to ICRA2020
 
-**September, 2020:** Talks at Ariel, UC Berkeley, Stanford, and Waterloo.
+**December, 2020:** Talk at the Institute for Dynamic Systems and Control, ETH Zurich, Switzerland
 
-**July, 2020:** 
-* Manuscript on "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition" is out.
-* Talk at the University of Southern California.  
 
-**June, 2020:** 
-* [Shushman Choudhury](https://web.stanford.edu/~shushman/) was interviewed for [BBC Digital Planet](https://www.bbc.co.uk/sounds/play/w3csz980) (starts on 13min) for our work on [multi-drone delivery with transit networks](https://arxiv.org/abs/1909.11840)
-* Our four papers [[1]](https://arxiv.org/abs/1909.11840), [[2]](https://arxiv.org/abs/1909.09688), [[3]](https://arxiv.org/abs/1909.05569), [[4]](https://arxiv.org/abs/1909.06363) are currently presented in ICRA2020. 
-* Press coverage in [Venture Beat](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/) for our work on [multi-drone delivery with transit networks](https://arxiv.org/abs/1909.11840).  
-
-**May, 2020:** 
-* Our work on [locality in distributed optimization](https://arxiv.org/abs/2002.12313) was **finalist** for best student paper award at [ECC2020](https://ecc20.eu/best-student-paper-award/)!
-* Our work on [multi-drone delivery with transit networks](https://arxiv.org/abs/1909.11840) is nominated for the **best multi-robot systems paper award** at ICRA2020!

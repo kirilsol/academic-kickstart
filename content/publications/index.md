@@ -67,6 +67,7 @@ Motion Planning", *Autonomous Robots* , special issue
    issue (**invited**), 2014.
    
 ## Conference proceedings
+1.  Devansh Jalota, **Kiril Solovey**, Karthik Gopalakrishnan, Stephen Zoepf, Hamsa Balakrishnan,  Marco Pavone, "When Efficiency meets Equity in Congestion Pricing and Revenue Refunding Schemes", submitted to *Equity and Access in Algorithms, Mechanisms, and Optimization*, online, 2021. [[arxiv]]( https://arxiv.org/abs/2106.10407)
 1. Devansh Jalota, **Kiril Solovey**, Stephen Zoepf, Marco Pavone, "Balancing Fairness and Efficiency in Traffic Routing via Interpolated Traffic Assignment", submitted to *Conference on Decision and Control*, 2021. [[arxiv]](https://arxiv.org/abs/2104.00098), [[code1]](https://github.com/StanfordASL/frank-wolfe-traffic), [[code2]](https://github.com/StanfordASL/fair-routing)
 1. **Kiril Solovey**, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, "Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition", *International Conference on Robotics and Automation*, 2021. [[arxiv]](https://arxiv.org/abs/2011.03603)
 1. Dror Dayan, **Kiril Solovey**, Marco Pavone, and Dan Halperin, "Near-Optimal Multi-Robot Motion Planning with Finite Sampling",  *International Conference on Robotics and Automation*, 2021. [[pdf]](/files/Dayan.Solovey.ea.ICRA21.pdf)
@@ -162,6 +163,7 @@ Motion Planning", *Autonomous Robots* , special issue
 ### Coauthors
 [Aviv Adler](https://scholar.google.nl/citations?user=_fFmB3oAAAAJ&hl=en),
 [Aviel Atias](https://il.linkedin.com/in/aviel-atias-b0430511a),
+[Hamsa Balakrishnan](http://www.mit.edu/~hamsa/),
 [Saptarshi Bandyopadhyay](https://www-robotics.jpl.nasa.gov/people/Saptarshi_Bandyopadhyay/),
 [Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/),
 [Mark de Berg](https://www.win.tue.nl/~mdberg/),
@@ -171,6 +173,7 @@ Motion Planning", *Autonomous Robots* , special issue
 Dror Dayan, 
 [Andrew Dobston](http://www.doctorandrewdobson.com/),
 [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli.html),
+[Karthik Gopalakrishnan](https://karthikg.mit.edu/),
 [Edgar Granados](https://robotics.cs.rutgers.edu/pracsys/members/edgar-granados/),
 [Dan Halperin](http://acg.cs.tau.ac.il/danhalperin),
 [Lucas Janson](http://lucasjanson.fas.harvard.edu/),
